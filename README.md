@@ -133,3 +133,4 @@ After the initial greeting, the application begins its main loop, which consists
 5. Once that feature terminates, the program is back at the start of the main loop.
 
 Any CLI application you build that neccesitates a non-binary interface ("Do you want to play Tic Tac Toe?" vs "What game would you like to play?") will have a main loop interface as described above. 
+<a href='https://learn.co/lessons/cli-interfaces-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
