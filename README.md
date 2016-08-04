@@ -132,5 +132,5 @@ After the initial greeting, the application begins its main loop, which consists
 4. Taking the user input and executing the appropriate sub-routine or procedure that represents that feature. If a user enters 'help', the program should print the help instructions.
 5. Once that feature terminates, the program is back at the start of the main loop.
 
-Any CLI application you build that neccesitates a non-binary interface ("Do you want to play Tic Tac Toe?" vs "What game would you like to play?") will have a main loop interface as described above. 
+Any CLI application you build that necessitates a non-binary interface ("Do you want to play Tic Tac Toe?" vs "What game would you like to play?") will have a main loop interface as described above. 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-interfaces-readme' title='CLI Interfaces'>CLI Interfaces</a> on Learn.co and start learning to code for free.</p>
