@@ -105,7 +105,7 @@ list↵
 
 My songs are:
 1. Shake It Off, by Taylor Swift
-2. In An Aeroplane Over the Sea, by Neautral Milk Hotel
+2. In An Aeroplane Over the Sea, by Neutral Milk Hotel
 3. Reality Check, by Binary Star
 4. Hey boy, hey girl, by the Chemical Brothers
 
